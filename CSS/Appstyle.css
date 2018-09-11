@@ -1,0 +1,51 @@
+.bg-pink{
+	background-color: #ffccff;
+
+}
+.bg-green{
+	background-color: #99ffcc;
+
+}
+.bg-blue{
+	background-color: #66ffff;
+
+}
+
+
+.head1{
+	color: #000000; 
+	font-family:"Century Gothic";
+	font-size:400%;
+	text-align: center;
+}
+
+
+.head2{
+	color: #0000FF; 
+	font-family:"Century Gothic";
+	font-size:400%;
+	text-align: center;
+}
+
+.head3{
+	color: #00FF00; 
+	font-family:"Century Gothic";
+	font-size:400%;
+	text-align: center;
+}
+
+a:link, a:visited {
+    background-color:#00000;
+    color: #006600;
+    font-family:"Century Gothic";
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-style:Solid
+}
+
+a:hover, a:active {
+	color: white;
+    background-color:#006600;
+}
+
